@@ -30,6 +30,10 @@ No frameworks or libraries were used for this challenge.
 
 ---
 
+## Screenshot
+
+![Project Screenshot](./images/screenshot.png)
+
 ## Project Structure
 
 ```
@@ -64,24 +68,22 @@ In this project Students will practice:
 
 ---
 
-## Note About AI Usage
+## Challenges I Faced
+One of the main challenges I faced was: 
 
-This project is part of a **learning process**, so the use of **AI tools (such as ChatGPT or code generators) is not recommended** while solving the challenge.
+* Aligning the plan section correctly using Flexbox 
 
-Students are encouraged to:
+* Making sure the design spacing matched the reference design
 
-* Think through the problem
-* Research documentation
-* Experiment and debug their code
+* Adjusting the shadow and colors to closely match the design
 
-The goal is to **develop real problem-solving skills**, which are essential for becoming a good developer.
+By experimenting with CSS properties like box-shadow, gap, and flex alignment, I was able to solve these issues.
 
----
 
 ## Author
 
 Frontend Mentor Challenge completed as part of a **mentorship program for beginner frontend developers** - [MichaelkentBurns](michaelkentburns.com) / Cohort-3.
 
-Mentee: Jonathan Ngoy  
+Mentee: Jonathan Bitingingwa  
 Mentor: Samuel Bitingingwa  
 FreeDev Group.
