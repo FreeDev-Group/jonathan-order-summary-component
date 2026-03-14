@@ -6,7 +6,7 @@
 }
 body{
     background: hsl(225, 100%, 94%);
-    height:100vh;
+    height:120vh;
     display:flex;
     align-items: center;
     justify-content: center;
@@ -19,7 +19,7 @@ body{
     width: 380px;
     border-radius:20px;
     overflow:hidden;
-    box-shadow: 0 20px 40px rgba(0,0,0.15);
+    box-shadow: 0 15px 20px hsl(224, 23%, 55%);
     text-align: center;
 }
 .hero{
